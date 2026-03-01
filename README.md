@@ -15,4 +15,5 @@
 ## 📩 Contatos
 
 <br> 📧 E-mail: deivid02bq@gmail.com
+<br> 📧 E-mail pessoal: deivid.nascimento@unifebe.edu.br
 <br> 🛜 Instagram: @nascimentoo_deivid
