@@ -1,8 +1,8 @@
 # 👋 Oi tudo bem ? Me chamo Deivid Nascimento.
 
 <br> 🎓 Estudante de Sistemas de Informação.
-<br> 💻 Focado em Full-Stack.
-<br> 🚀 Trabalhando em projetos pessoais e criação de softwares.
+<br> 🚀 Trabalhando em projetos de HTML, CSS e JS.
+<!-- <br> 💻 Focado em Full-Stack. -->
 
 
 ## 🛠️ Tecnologias
